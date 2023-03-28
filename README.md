@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://myeportfolio.vercel.app/](https://myeportfolio.vercel.app/)
-
-- 💬 Ask me about **Laravel and VueJS**
-
 - 📫 How to reach me **elalami.ayoub.99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
