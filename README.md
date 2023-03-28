@@ -4,7 +4,7 @@
 
 - 🔭 The Next Metaverse Dev On Web
 
-- 🌱 I’m currently learning **MERN and Metaverse**
+- 🌱 I’m currently learning **MERN and VR**
 
 - 📫 How to reach me **elalami.ayoub.99@gmail.com**
 
