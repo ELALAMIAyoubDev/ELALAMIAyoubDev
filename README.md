@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/elalamiayoubdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elalamiayoubdev" height="30" width="40" /></a>
 <a href="https://twitter.com/elalamiayoubdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elalamiayoubdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayoub el alami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el alami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayoub-el-alami-033b9519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el alami" height="30" width="40" /></a>
 </p>
 
 # Languages :
