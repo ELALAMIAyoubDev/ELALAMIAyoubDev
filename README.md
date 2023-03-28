@@ -2,9 +2,13 @@
 <h3 align="center">A Full Stack Dev</h3>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif">
 
+- 🔭 The Next Metaverse Dev On Web
+
 - 🌱 I’m currently learning **MERN and Metaverse**
 
 - 📫 How to reach me **elalami.ayoub.99@gmail.com**
+
+- ⚡ Fun fact  **Coding fuel" is Coffe and Tea** 👌
 
 # 🤙 Contact :
 <p align="left">
